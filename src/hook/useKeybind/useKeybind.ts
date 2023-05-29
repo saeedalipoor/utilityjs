@@ -81,6 +81,8 @@ export const KEYS_KEYNAME = {
   ArrowUp: "ArrowUp",
   ArrowRight: "ArrowRight",
   ArrowDown: "ArrowDown",
+  PageDown: "PageDown",
+  PageUp: "PageUp",
   Insert: "Insert",
   Delete: "Delete",
   Meta: "Meta",
